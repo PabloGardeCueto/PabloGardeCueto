@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PabloGardeCueto
 - 👀 I’m interested in studies
 - 🌱 I’m currently learning software engineer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via instagram @pablogardecueto
 
 <!---
